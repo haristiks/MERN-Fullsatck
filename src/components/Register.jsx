@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 function Register() {
   return (
-    <div>
+    <div className='container'>
         <form action="">
             <h1>Register Here</h1>
             <label htmlFor="name">
